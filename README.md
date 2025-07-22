@@ -7,7 +7,6 @@ npm create vike@latest --- --react --tailwindcss
 ## Contents
 
 - [React](#react)
-
   - [`/pages/+config.ts`](#pagesconfigts)
   - [Routing](#routing)
   - [`/pages/_error/+Page.jsx`](#pages_errorpagejsx)
